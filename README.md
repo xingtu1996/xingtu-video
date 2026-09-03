@@ -2,6 +2,10 @@
 
 > **AI 知识微课** · 1-3 分钟讲透 1 个原理/实战 ｜ 横竖屏双版本 ｜ 与书/文章联动
 
+![Status](https://img.shields.io/badge/status-in%20progress-yellow.svg)
+![Topics](https://img.shields.io/badge/topics-20%20%28first%20batch%29-blue.svg)
+![Pipelines](https://img.shields.io/badge/pipelines-6-green.svg)
+
 ---
 
 ## 🎯 定位
@@ -16,7 +20,7 @@
 
 | 目录 | 内容 | 状态 |
 |------|------|:---:|
-| `00_topic-pool/` | 100+ 知识点选题（从 xingtu-ai-engineering 拆） | ✅ 首批 |
+| `00_topic-pool/` | 首批 20 条知识点选题（从 xingtu-ai-engineering 拆） | ✅ 首批 |
 | `01_scripts/` | 脚本模板 + 每期脚本 | 📋 待写 |
 | `02_storyboards/` | 分镜（画面/字幕/配音） | 📋 |
 | `03_final-videos/` | 成片文件（外部存储，git 只放索引） | 📋 |
@@ -30,3 +34,11 @@
 - [ ] 第一条样片
 
 > 内容矩阵总规划：`~/xingtu/specs/20260831-个人IP内容矩阵/00_README.md`
+
+---
+
+## 📮 关注与交流
+
+- 公众号「**行途技术手记**」：AI 工具链实践 + 一线工程师视角
+- 公众号回复【**交流**】→ 获取我的私人微信（`xingtu_note`，备注"公众号"优先通过）
+- 视频脚本模板后续统一加入口播引流句
